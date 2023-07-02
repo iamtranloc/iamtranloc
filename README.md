@@ -39,9 +39,9 @@ I was born and raised in Gia Lai and I am a computer engineering student who is 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.facebook.com/tr.locne/"><img alt="facebook" src="https://img.shields.io/badge/Facebook-To%C3%A0n%20V%C3%B5-blue?style=plastic&logo=facebook"></a>
-<a href="https://www.instagram.com/iam_tranloc/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-toanvo4121-red?style=plastic&logo=instagram"></a>
-<a href="mailto:loc.tran04@hcmut.edu.vn"><img alt="Email" src="https://img.shields.io/badge/Email-toan.vo4121@hcmut.edu.vn-success?style=plastic&logo=gmail"></a>
+<a href="https://www.facebook.com/tr.locne/"><img alt="facebook" src="https://img.shields.io/badge/Facebook-Tranloc-blue?style=plastic&logo=facebook"></a>
+<a href="https://www.instagram.com/iam_tranloc/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-iam_tranloc-red?style=plastic&logo=instagram"></a>
+<a href="mailto:loc.tran04@hcmut.edu.vn"><img alt="Email" src="https://img.shields.io/badge/Email-loc.tran04@hcmut.com-success?style=plastic&logo=gmail"></a>
 </p>
 
 ⭐️ From [tranloc](https://github.com/iam_tranloc)
