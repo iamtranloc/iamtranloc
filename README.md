@@ -1,6 +1,6 @@
 ## Hey there 👋 Hi, I’m @iamtranloc.
 
-<img width="30%" align="left" alt="Github" src="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx" />
+<img width="30%" align="left" alt="Github" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdsaW50bGZiYXE5Mjl0MW5nMDZwMjNmYWJpenFoZXl0YWQ1b3hocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 I was born and raised in Gia Lai and I am a computer engineering student who is passionate about coding.
 
