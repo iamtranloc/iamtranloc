@@ -42,4 +42,4 @@ I was born and raised in Gia Lai and I am a computer engineering student who is 
 <a href="mailto:loc.tran04@hcmut.edu.vn"><img alt="Email" src="https://img.shields.io/badge/Email-loc.tran04@hcmut.com-success?style=plastic&logo=gmail"></a>
 </p>
 
-⭐️ From [tranloc](https://github.com/iam_tranloc)
+⭐️ From [tranloc](https://github.com/iamtranloc)
