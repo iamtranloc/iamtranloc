@@ -11,8 +11,6 @@ I was born and raised in Gia Lai and I am a computer engineering student who is 
 - 📚 &nbsp; Currently learning Data Science using Python, MySQL, etc.
 - 👯 &nbsp; Looking for a Software Development Internship.
 
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
-
 ### 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
